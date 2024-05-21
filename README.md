@@ -1,6 +1,6 @@
 Hello students :)
 
-My name is : Hossam Abozeid Saleh 
+My name is : Hossam Abozeid  
 
 I am a software engineer 
 
