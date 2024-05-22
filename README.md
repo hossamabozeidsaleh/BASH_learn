@@ -11,7 +11,10 @@ I created this repo for the purpose of psychological education, and I hope it wi
 - Firstly :-
 
 You can run the project by this command ( bash + filename )
-ex : bash 0_Basics_commendline_in_unix.sh
+ex : bash 1_Print_the_word_hello_world
+
+or 
+(chmod +X + filename)  
 
 
 Run these small programs in coordination to take advantage of them

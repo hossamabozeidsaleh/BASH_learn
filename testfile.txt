@@ -1,0 +1,3 @@
+Bash is a command-line interface interpreter that runs in a text window where users can manage and execute shell commands. Bash – or shell scripting – on the other hand is the process of writing a set of commands to be executed on a Linux system.
+Bash is a command-line interface interpreter that runs in a text window where users can manage and execute shell commands. Bash – or shell scripting – on the other hand is the process of writing a set of commands to be executed on a Linux system.
+
