@@ -8,7 +8,7 @@ I am a software engineer
 
 I created this repo for the purpose of psychological education, and I hope it will benefit others"
 
-- Firstly :-
+ Firstly :-
 
 You can run the project by this command ( bash + filename )
 ex : bash 1_Print_the_word_hello_world
