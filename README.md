@@ -1,6 +1,6 @@
 Hello students :)
 
-<<<<<<< HEAD
+
 My name is : Hossam Abozeid Saleh 
 
 I am a software engineer 
@@ -11,7 +11,6 @@ I created this repo for the purpose of psychological education, and I hope it wi
 
 You can run the project by this command ( bash + filename )
 ex : bash 0_Basics_commendline_in_unix.sh
-=======
 My name is : Hossam Abozeid  
 
 I am a software engineer 
@@ -19,10 +18,6 @@ I am a software engineer
 I created this repo for the purpose of psychological education, and I hope it will benefit others
 
 - Firstly :-
-
-You can run the project by this command ( bash + `filename` )
-ex : bash `0_Basics_commendline_in_unix.sh`
->>>>>>> refs/remotes/origin/main
 
 Run these small programs in coordination to take advantage of them
 ex : bash 1_varibal.sh
