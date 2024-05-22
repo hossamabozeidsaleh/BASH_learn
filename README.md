@@ -22,9 +22,18 @@ ex :``` bash bash 1_varibal.sh```
 
 
 And so on, in order ⬇
-- 1_varibal.sh
-- 2_read.sh
-- 3_user.sh
-- 4_math.sh
-- 5_math.sh
+- file : 1_echo
+- file : 2_variables.sh
+- file : 3_if_statement.sh
+- file : 4_loop.sh
+- file : 5_while.sh
+- file : 6_continue_and_break.sh
+- file : 7_file_reading_and_writing.sh
+- file : 8_function
+- file : Advanced_script.sh
+ 
+Some files that help in lessons have a text extensio
+- file : README.md
+- file : testfile.txt
+- file : users.txt
 
