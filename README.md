@@ -1,3 +1,4 @@
+# Foobar
 Hello students :)
 
 
@@ -20,7 +21,8 @@ I created this repo for the purpose of psychological education, and I hope it wi
 - Firstly :-
 
 Run these small programs in coordination to take advantage of them
-ex : bash 1_varibal.sh
+ex :``` bash bash 1_varibal.sh```
+
 
 And so on, in order ⬇
 - 1_varibal.sh
