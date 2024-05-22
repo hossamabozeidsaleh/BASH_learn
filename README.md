@@ -4,8 +4,6 @@
 
 My name is : Hossam Abozeid  
 
-I am a software engineer 
-
 I created this repo for the purpose of psychological education, and I hope it will benefit others"
 
  Firstly :-
