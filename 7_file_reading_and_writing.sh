@@ -4,13 +4,15 @@
 # (white) to file
 read username
 while
-	[[ "$username" != "" ]]
-	echo $username >> users.txt
-	read username
+        [[ "$username" != "" ]]
+do                 
+        echo $username >> users.txt
+        read username
 done
 
 # (Read) the file line by line 
 while read line
 do
-       	echo $line
+        echo $line
 done < users.txt
+

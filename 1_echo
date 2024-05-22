@@ -1,4 +1,10 @@
-#!/bin/bash
+#!/bin/bash 
+#print hello world  
 echo "hello world"
+#print hello " world 
 echo "hello \" world"
+#print list of files : file1 
+#                      file2 
+#                      file3 
+#                      file4 
 echo "list of files :" *

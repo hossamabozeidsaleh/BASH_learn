@@ -1,1 +1,10 @@
+#!/bin/bash
+
+printInfo(){
+echo "welcome hossam abozeid "
+}
+
+
+printInfo  
+printInfo
 
