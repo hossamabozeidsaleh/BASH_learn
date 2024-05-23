@@ -1,13 +1,7 @@
-sdf
-ahmed
-noor
-djjd
-dkkd
-dksdm
-xcmkc
-dkmcdk
-dcmdcd
-;d
-ahmed
-ramadan
-noor
+list of files : #Advanced_script.sh# 1_echo 2_variables.sh 3_if_statement.sh 4_loop.sh 5_while.sh 6_continue_and_break.sh 7_file_reading_and_writing.sh 8_function Advanced_script.sh README.md testfile.txt users.txt
+hossam
+hossam
+hosaak
+sasj
+mskd
+dkkfls

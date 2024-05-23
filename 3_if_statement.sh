@@ -12,7 +12,7 @@ then
 fi
 
 # Another way to use the if statment  
- [ "$degree" -eq "80" ] && echo "avrege" || echo "avrage" 
+[ "$degree" -gt "80" ] && echo "very good" || echo "good"
 
 # gt (>)
 # lt (<)

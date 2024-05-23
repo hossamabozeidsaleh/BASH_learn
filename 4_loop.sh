@@ -4,13 +4,14 @@ do
 	echo "hello"
 done
 
-
+echo "========================================================"
 
 for i in 10 20 20 40 
 do 
 	echo "heloo $i"
 done
 
+echo "========================================================"
 
 for i in * 
 do 
@@ -18,10 +19,14 @@ do
 done
 
 
+echo "========================================================"
 
-for i in {1..100}
+for l in {1..100}
 do 
-	if [[ ("$i" -ge "10") && ("$i" -le "50") ]]
-	then echo "i = $i"
-	fi 
+[ "$l" -eq "10" ] && echo "this is number star" ||echo "this is number : $l" 
+if [ "$l" -eq "99" ]
+then echo "this is number star"
+fi
+ 
 done
+
