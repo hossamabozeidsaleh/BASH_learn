@@ -24,11 +24,9 @@ And so on, in order ⬇
 - file : 2_variables.sh
 - file : 3_if_statement.sh
 - file : 4_loop.sh
-- file : 5_while.sh
 - file : 6_continue_and_break.sh
 - file : 7_file_reading_and_writing.sh
 - file : 8_function
-- file : Advanced_script.sh
  
 Some files that help in lessons have a text extensio
 - file : README.md
